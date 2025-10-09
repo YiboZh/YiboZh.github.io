@@ -1,7 +1,7 @@
 ---
 title:          "From Patchwork to Network: A Comprehensive Framework for Demand Analysis and Fleet Optimization of Urban Air Mobility"
 date:           2025-10-18 00:00:00 +0800
-selected:       true
+selected:       false
 pub:            "Transportation Research Board (TRB)"
 pub_post:       ", accepted."
 pub_date:       "2025"
