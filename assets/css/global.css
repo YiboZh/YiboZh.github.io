@@ -90,3 +90,10 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+
+/* Scrollable News widget */
+.news-scroll {
+    max-height: 260px; /* adjust as needed */
+    overflow-y: auto;
+}
+

@@ -10,8 +10,8 @@ positions:
 
 
 email: "yibozhao83@gmail.com"
-# cv_link: link-to-your-cv-file
-# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+cv_link: https://drive.google.com/file/d/1QUkU6LJcCFiLPxw3z-IVlsK7MDvReegc/view?usp=drive_link
+gscholar: mmqm010AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: YiboZh
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -48,15 +48,23 @@ portrait_caption: >-
 education:
 - name: Johns Hopkins University
   logo: /assets/images/badges/jhu.jpeg
-  position: >- 
+  position: >-
     Master Student
-  date: Sep. 2024 - present
+  date: Aug. 2024 - May. 2025
 - name: Tongji University
   logo: /assets/images/badges/tongji.png
   position: B.S. in Computer Science
   date: Sep. 2019 - Jul. 2023
 
 experience:
+- name: Massachusetts Institute of Technology
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: Summer Research Intern at JTL
+  date: Jun. 2025 - Aug. 2025
+- name: MIT Media Lab
+  logo: /assets/images/badges/medialab.png
+  position: Visiting Student at MIT Media Lab
+  date: May. 2025 - May. 2026
 - name: Microsoft
   logo: /assets/images/badges/microsoft.jpg
   position: Software Engineer FTE / Intern
@@ -69,14 +77,6 @@ experience:
   logo: /assets/images/badges/tongji.png
   position: Research Assistant
   date: Mar. 2020 - Aug. 2022
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: Summer Research Intern at JTL
-  date: Jun. 2025 - Aug. 2025
-- name: MIT Media Lab
-  logo: /assets/images/badges/medialab.png
-  position: Visiting Student at MIT Media Lab
-  date: May. 2025 - May. 2026
 
 awards:
   - name: JHU Departmental Tuition Support
