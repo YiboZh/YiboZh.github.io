@@ -4,12 +4,12 @@ navbar_name: "Yibo Zhao"
 
 positions:
 - logo: /assets/images/badges/medialab.png  # Logo is optional
-  name: Visiting Student at MIT Media Lab
+  name: Research Affiliate at MIT Media Lab
 - logo: /assets/images/badges/jhu.jpeg
   name: Master Student at Johns Hopkins University
 
 
-email: "yibozhao83@gmail.com"
+email: "yibozhao@mit.edu"
 cv_link: https://drive.google.com/file/d/1QUkU6LJcCFiLPxw3z-IVlsK7MDvReegc/view?usp=drive_link
 gscholar: mmqm010AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: YiboZh
@@ -23,7 +23,7 @@ linkedin: yibo-z-5a1166273
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a visiting student at the
+    I am a research affiliate at the
     MIT Media Lab,
     advised by <a href="https://pliang279.github.io/" target="_blank" rel="noopener">Prof. Paul Liang</a>, and a research assistant at
     Johns Hopkins University, working with
@@ -63,7 +63,7 @@ experience:
   date: Jun. 2025 - Aug. 2025
 - name: MIT Media Lab
   logo: /assets/images/badges/medialab.png
-  position: Visiting Student at MIT Media Lab
+  position: Research Affiliate at MIT Media Lab
   date: May. 2025 - May. 2026
 - name: Microsoft
   logo: /assets/images/badges/microsoft.jpg
