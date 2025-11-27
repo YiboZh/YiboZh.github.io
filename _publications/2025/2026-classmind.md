@@ -1,11 +1,11 @@
 ---
 title:          "ClassMind: Scaling Classroom Observation and Instructional Feedback with Multimodal AI"
-date:           2026-02-01 00:00:00 +0800
+date:           2025-01-01 00:00:00 +0800
 selected:       true
 pub_pre:        "Under review with "
 pub:            "CHI 2026"
 pub_post:       "."
-pub_date:       "2026"
+pub_date:       "2025"
 # abstract: >-
 #   Introduces a multimodal AI system that automates classroom observation and feedback workflows at scale.
 authors:

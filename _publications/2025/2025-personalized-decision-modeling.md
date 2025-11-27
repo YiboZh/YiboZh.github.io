@@ -13,6 +13,10 @@ authors:
   - Yang Zhao
   - Hongru Du
   - Hao Frank Yang
-links: {}
+links:
+  Preprint: https://arxiv.org/abs/2511.02194
+  Project Page: https://yibozh.github.io/Athena/
+  Code: https://github.com/YiboZh/Athena-Code
+  NeurIPS: https://neurips.cc/virtual/2025/loc/san-diego/poster/118043
 cover: assets/images/covers/athena.png
 ---
