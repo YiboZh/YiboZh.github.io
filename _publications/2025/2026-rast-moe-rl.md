@@ -18,6 +18,7 @@ authors:
   - Jiangbo Yu
   - Haris Koutsopoulos
   - Jinhua Zhao
-links: {}
 cover: assets/images/covers/tnc.png
+links:
+  Preprint: https://arxiv.org/abs/2512.13727
 ---
